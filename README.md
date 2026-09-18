@@ -30,7 +30,7 @@ Producto de extremo a extremo: la idea, el código, Docker, nginx y dejarlo vivo
 | [**Dabot**](https://github.com/davito-03/dabot) · [ficha](https://davito.es/proyectos/dabot) | Bot de Discord + dashboard con OAuth | Python, discord.py, FastAPI, Docker |
 | [**Nexo Bot**](https://github.com/davito-03/nexo-bot) · [ficha](https://davito.es/proyectos/nexo) | Bot a medida (voz, tickets, backups, IA) | TypeScript, discord.js, SQLite |
 | [**davito.es**](https://github.com/davito-03/web) · [ficha](https://davito.es/proyectos/web) | Hub, juegos y este portfolio | HTML/CSS/JS, PHP, nginx |
-| [**DavoGram**](https://github.com/davito-03/davogram) · [ficha](https://davito.es/proyectos/davogram) | Userbot Telegram → Google Drive | Python, Pyrogram, rclone |
+| [**telegram-drive**](https://github.com/davito-03/telegram-drive) · [ficha](https://davito.es/proyectos/telegram-drive) | Userbot: Mensajes Guardados → Drive | Python, Pyrogram, rclone |
 | [**Homepage**](https://github.com/davito-03/homepage) · [ficha](https://davito.es/proyectos/homepage) | Panel del VPS por WireGuard | Docker, YAML |
 
 La versión que corre en el servidor es la que cuenta. Tokens y sesiones no están en git.
