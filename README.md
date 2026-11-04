@@ -36,8 +36,8 @@ Me gusta programar y automatizar todo mi trabajo y mi vida personal en la mayor 
 
 ### 🖥️ Infraestructura y entorno
 
-- **VPS / Servidor**: Ubuntu Server con más de 15 contenedores Docker autónomos (Nextcloud, Jellyfin, Vaultwarden, Uptime Kuma, Beszel), aislados tras una malla privada WireGuard y protegidos por CrowdSec IPS.
-- **Escritorio de trabajo**: CachyOS con compositor Niri Wayland.
+- **VPS / Servidor**: Ubuntu 26.04.1 LTS Server con más de 15 contenedores Docker autónomos (Nextcloud, Jellyfin, Vaultwarden, Uptime Kuma, Beszel), aislados tras una malla privada WireGuard y protegidos por CrowdSec IPS.
+- **Escritorio de trabajo**: CachyOS con Ryoku instalado por encima.
 - **Filosofía**: Código claro, local-first siempre que sea posible, cero telemetría invasiva y control total de mis datos.
 
 ---
